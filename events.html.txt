@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Events</title>
+</head>
+<body>
+  <h2>Upcoming Events</h2>
+  <ul>
+    <li>Alumni Meet – 15 Sept 2025</li>
+    <li>Hackathon – 20 Sept 2025</li>
+    <li>Webinar with Alumni – 1 Oct 2025</li>
+  </ul>
+</body>
+</html>
